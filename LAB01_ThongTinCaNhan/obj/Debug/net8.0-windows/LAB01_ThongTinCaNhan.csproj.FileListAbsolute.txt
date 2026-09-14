@@ -1,0 +1,15 @@
+C:\Users\nhngu\Downloads\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\bin\Debug\net8.0-windows\LAB01_ThongTinCaNhan.exe
+C:\Users\nhngu\Downloads\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\bin\Debug\net8.0-windows\LAB01_ThongTinCaNhan.deps.json
+C:\Users\nhngu\Downloads\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\bin\Debug\net8.0-windows\LAB01_ThongTinCaNhan.runtimeconfig.json
+C:\Users\nhngu\Downloads\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\bin\Debug\net8.0-windows\LAB01_ThongTinCaNhan.dll
+C:\Users\nhngu\Downloads\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\bin\Debug\net8.0-windows\LAB01_ThongTinCaNhan.pdb
+C:\Users\nhngu\Downloads\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\obj\Debug\net8.0-windows\LAB01_ThongTinCaNhan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhngu\Downloads\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\obj\Debug\net8.0-windows\LAB01_ThongTinCaNhan.AssemblyInfoInputs.cache
+C:\Users\nhngu\Downloads\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\obj\Debug\net8.0-windows\LAB01_ThongTinCaNhan.AssemblyInfo.cs
+C:\Users\nhngu\Downloads\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\obj\Debug\net8.0-windows\LAB01_ThongTinCaNhan.csproj.CoreCompileInputs.cache
+C:\Users\nhngu\Downloads\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\obj\Debug\net8.0-windows\LAB01_ThongTinCaNhan.dll
+C:\Users\nhngu\Downloads\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\obj\Debug\net8.0-windows\refint\LAB01_ThongTinCaNhan.dll
+C:\Users\nhngu\Downloads\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\obj\Debug\net8.0-windows\LAB01_ThongTinCaNhan.pdb
+C:\Users\nhngu\Downloads\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\obj\Debug\net8.0-windows\LAB01_ThongTinCaNhan.genruntimeconfig.cache
+C:\Users\nhngu\Downloads\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\obj\Debug\net8.0-windows\ref\LAB01_ThongTinCaNhan.dll
+C:\Users\nhngu\Downloads\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\LAB01_ThongTinCaNhan\obj\Debug\net8.0-windows\LAB01_Th.AE17BBC3.Up2Date

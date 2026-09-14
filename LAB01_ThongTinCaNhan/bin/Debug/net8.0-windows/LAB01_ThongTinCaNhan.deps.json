@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LAB01_ThongTinCaNhan/1.0.0": {
+        "runtime": {
+          "LAB01_ThongTinCaNhan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LAB01_ThongTinCaNhan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
