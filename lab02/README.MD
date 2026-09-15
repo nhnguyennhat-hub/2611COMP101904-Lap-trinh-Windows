@@ -8,5 +8,21 @@ năng. Sau khi thực hiện xong một chức năng, chương trình quay lại
 - Thiết kế giao diện đầy đủ control, bố cục rõ ràng.
 - Xử lý các nút Hiển thị, Xóa, Thoát đúng yêu cầu.
 - Bắt lỗi dữ liệu đầu vào.
-## 3. Hình ảnh minh họa
+
+## 3. Giải thich
+Về hàm tìm kiếm là:
+static int TimKiem(int[] a, int x)
+{
+    for (int i = 0; i < a.Length; i++)
+    {
+        if (a[i] == x)
+        {
+            return i;
+        }
+    }
+
+    return -1;
+}
+
+## 4. Hình ảnh minh họa
 
