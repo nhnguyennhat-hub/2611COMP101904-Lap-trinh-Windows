@@ -26,3 +26,7 @@ Mở file `LAB01_ThongTinCaNhan.sln` bằng Visual Studio, sau đó nhấn `F5`.
 ảnh kết quả
 
 ![anh ketqua](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/blob/77b673b699a71b45cd2251634fa12fa322240e17/LAB01_ThongTinCaNhan/image/end.png)
+
+ảnh lỗi
+
+
