@@ -29,4 +29,4 @@ Mở file `LAB01_ThongTinCaNhan.sln` bằng Visual Studio, sau đó nhấn `F5`.
 
 ảnh lỗi
 
-
+![anh loi](![])
