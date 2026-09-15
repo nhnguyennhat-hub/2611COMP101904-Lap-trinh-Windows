@@ -21,7 +21,6 @@ static int TimKiem(int[] a, int x)
             return i;
         }
     }
-
     return -1;
 }
 
