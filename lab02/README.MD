@@ -1,4 +1,4 @@
-# Bài Lab 01 - Quản lý mảng số nguyên bằng Console
+# Bài Lab 02 - Quản lý mảng số nguyên bằng Console
 
 ## 1. Mô tả bài toán
 Viết chương trình Console quản lý một mảng số nguyên. Chương trình hiển thị menu để người dùng lựa chọn chức 
