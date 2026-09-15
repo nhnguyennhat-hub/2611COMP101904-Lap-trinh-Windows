@@ -11,6 +11,7 @@ năng. Sau khi thực hiện xong một chức năng, chương trình quay lại
 
 ## 3. Giải thich
 Về hàm tìm kiếm là:
+
 static int TimKiem(int[] a, int x)
 {
     for (int i = 0; i < a.Length; i++)
