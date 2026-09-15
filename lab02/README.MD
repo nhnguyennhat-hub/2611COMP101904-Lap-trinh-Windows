@@ -5,7 +5,7 @@ Viết chương trình Console quản lý một mảng số nguyên. Chương tr
 năng. Sau khi thực hiện xong một chức năng, chương trình quay lại menu cho đến khi người dùng chọn thoát.
 
 ## 2. Kết quả đạt được
--Tạo project dạng Console App C#.
--Xử lý dữ liệu đúng theo yêu.
--Đầy đủ chức năng theo yêu cầu đặt ra
+- Thiết kế giao diện đầy đủ control, bố cục rõ ràng.
+- Xử lý các nút Hiển thị, Xóa, Thoát đúng yêu cầu.
+- Bắt lỗi dữ liệu đầu vào.
 ## 3. Hình ảnh minh họa
