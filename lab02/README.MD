@@ -34,5 +34,7 @@ static int TimKiem(int[] a, int x)
 
 }
 
+Hàm TimKiem dùng để tìm giá trị x trong mảng. Hàm duyệt từ đầu mảng đến cuối mảng. Nếu tìm thấy x thì trả về vị trí đầu tiên. Nếu không tìm thấy thì trả về -1.
+
 ## 4. Hình ảnh minh họa
 
