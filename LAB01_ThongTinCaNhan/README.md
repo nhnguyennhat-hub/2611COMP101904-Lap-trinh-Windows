@@ -29,4 +29,4 @@ Mở file `LAB01_ThongTinCaNhan.sln` bằng Visual Studio, sau đó nhấn `F5`.
 
 ảnh lỗi
 
-![anh loi](![])
+![anh loi](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/blob/main/LAB01_ThongTinCaNhan/image/anh%20loi.png)
