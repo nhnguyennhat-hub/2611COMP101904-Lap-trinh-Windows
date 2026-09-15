@@ -13,15 +13,25 @@ năng. Sau khi thực hiện xong một chức năng, chương trình quay lại
 Về hàm tìm kiếm là:
 
 static int TimKiem(int[] a, int x)
+
 {
+
     for (int i = 0; i < a.Length; i++)
+
     {
+
         if (a[i] == x)
+
         {
+
             return i;
+
         }
+
     }
+
     return -1;
+
 }
 
 ## 4. Hình ảnh minh họa
