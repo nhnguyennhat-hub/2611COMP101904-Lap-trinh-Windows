@@ -36,5 +36,17 @@ static int TimKiem(int[] a, int x)
 
 Hàm TimKiem dùng để tìm giá trị x trong mảng. Hàm duyệt từ đầu mảng đến cuối mảng. Nếu tìm thấy x thì trả về vị trí đầu tiên. Nếu không tìm thấy thì trả về -1.
 
+vd:
+
+Mảng: 4 1 9 2 7
+       0 1 2 3 4
+
+x = 9
+
+a[0] = 4 → không
+a[1] = 1 → không
+a[2] = 9 → tìm thấy
+
+return 2
 ## 4. Hình ảnh minh họa
 
