@@ -9,7 +9,7 @@ năng. Sau khi thực hiện xong một chức năng, chương trình quay lại
 - Xử lý các nút Hiển thị, Xóa, Thoát đúng yêu cầu.
 - Bắt lỗi dữ liệu đầu vào.
 
-## 3. Giải thich
+## 3. Giải thích
 Về hàm tìm kiếm là:
 
 static int TimKiem(int[] a, int x)
