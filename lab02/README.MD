@@ -50,3 +50,5 @@ a[2] = 9 → tìm thấy
 return 2
 ## 4. Hình ảnh minh họa
 ![anh demo](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/blob/main/lab02/image%2002/Screenshot%202026-09-15%20230221.png)
+
+![anh demo](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/blob/main/lab02/image%2002/Screenshot%202026-09-15%20230221.png)
