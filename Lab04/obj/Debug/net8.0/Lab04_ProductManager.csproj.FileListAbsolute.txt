@@ -1,0 +1,15 @@
+C:\Users\nhngu\Downloads\Lab04\bin\Debug\net8.0\Lab04_ProductManager.exe
+C:\Users\nhngu\Downloads\Lab04\bin\Debug\net8.0\Lab04_ProductManager.deps.json
+C:\Users\nhngu\Downloads\Lab04\bin\Debug\net8.0\Lab04_ProductManager.runtimeconfig.json
+C:\Users\nhngu\Downloads\Lab04\bin\Debug\net8.0\Lab04_ProductManager.dll
+C:\Users\nhngu\Downloads\Lab04\bin\Debug\net8.0\Lab04_ProductManager.pdb
+C:\Users\nhngu\Downloads\Lab04\obj\Debug\net8.0\Lab04_ProductManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhngu\Downloads\Lab04\obj\Debug\net8.0\Lab04_ProductManager.AssemblyInfoInputs.cache
+C:\Users\nhngu\Downloads\Lab04\obj\Debug\net8.0\Lab04_ProductManager.AssemblyInfo.cs
+C:\Users\nhngu\Downloads\Lab04\obj\Debug\net8.0\Lab04_ProductManager.csproj.CoreCompileInputs.cache
+C:\Users\nhngu\Downloads\Lab04\obj\Debug\net8.0\Lab04_ProductManager.dll
+C:\Users\nhngu\Downloads\Lab04\obj\Debug\net8.0\refint\Lab04_ProductManager.dll
+C:\Users\nhngu\Downloads\Lab04\obj\Debug\net8.0\Lab04_ProductManager.pdb
+C:\Users\nhngu\Downloads\Lab04\obj\Debug\net8.0\Lab04_ProductManager.genruntimeconfig.cache
+C:\Users\nhngu\Downloads\Lab04\obj\Debug\net8.0\ref\Lab04_ProductManager.dll
+C:\Users\nhngu\Downloads\Lab04\obj\Debug\net8.0\Lab04_Pr.A4901AA3.Up2Date
