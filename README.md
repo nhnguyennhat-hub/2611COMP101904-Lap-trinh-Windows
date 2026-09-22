@@ -4,6 +4,6 @@
 
 ## Họ và tên: Nguyễn Nhật Anh
 
-## Lớp: CNTTA
+## Lớp: CNTT.A
 
 ## Nhóm: 8
