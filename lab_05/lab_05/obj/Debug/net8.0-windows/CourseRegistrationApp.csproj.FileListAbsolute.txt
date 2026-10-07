@@ -1,0 +1,15 @@
+C:\Users\nhngu\Downloads\CourseRegistrationApp\CourseRegistrationApp\bin\Debug\net8.0-windows\CourseRegistrationApp.exe
+C:\Users\nhngu\Downloads\CourseRegistrationApp\CourseRegistrationApp\bin\Debug\net8.0-windows\CourseRegistrationApp.deps.json
+C:\Users\nhngu\Downloads\CourseRegistrationApp\CourseRegistrationApp\bin\Debug\net8.0-windows\CourseRegistrationApp.runtimeconfig.json
+C:\Users\nhngu\Downloads\CourseRegistrationApp\CourseRegistrationApp\bin\Debug\net8.0-windows\CourseRegistrationApp.dll
+C:\Users\nhngu\Downloads\CourseRegistrationApp\CourseRegistrationApp\bin\Debug\net8.0-windows\CourseRegistrationApp.pdb
+C:\Users\nhngu\Downloads\CourseRegistrationApp\CourseRegistrationApp\obj\Debug\net8.0-windows\CourseRegistrationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhngu\Downloads\CourseRegistrationApp\CourseRegistrationApp\obj\Debug\net8.0-windows\CourseRegistrationApp.AssemblyInfoInputs.cache
+C:\Users\nhngu\Downloads\CourseRegistrationApp\CourseRegistrationApp\obj\Debug\net8.0-windows\CourseRegistrationApp.AssemblyInfo.cs
+C:\Users\nhngu\Downloads\CourseRegistrationApp\CourseRegistrationApp\obj\Debug\net8.0-windows\CourseRegistrationApp.csproj.CoreCompileInputs.cache
+C:\Users\nhngu\Downloads\CourseRegistrationApp\CourseRegistrationApp\obj\Debug\net8.0-windows\CourseRegistrationApp.dll
+C:\Users\nhngu\Downloads\CourseRegistrationApp\CourseRegistrationApp\obj\Debug\net8.0-windows\refint\CourseRegistrationApp.dll
+C:\Users\nhngu\Downloads\CourseRegistrationApp\CourseRegistrationApp\obj\Debug\net8.0-windows\CourseRegistrationApp.pdb
+C:\Users\nhngu\Downloads\CourseRegistrationApp\CourseRegistrationApp\obj\Debug\net8.0-windows\CourseRegistrationApp.genruntimeconfig.cache
+C:\Users\nhngu\Downloads\CourseRegistrationApp\CourseRegistrationApp\obj\Debug\net8.0-windows\ref\CourseRegistrationApp.dll
+C:\Users\nhngu\Downloads\CourseRegistrationApp\CourseRegistrationApp\obj\Debug\net8.0-windows\CourseRe.21CF6FF0.Up2Date
