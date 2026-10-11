@@ -44,38 +44,7 @@ Công thức: `Tổng học phí = Học phí/tháng × Số tháng`.
 - `btnThoat`: Thoát
 
 ## 5. Chức năng
-### Form Load
-Nạp 4 khóa học, chọn khóa đầu tiên, Online mặc định, số tháng 1-12 và tính tổng ban đầu.
 
-### Đăng ký
-Kiểm tra họ tên, số điện thoại và khóa học. Sau đó hiển thị phiếu gồm họ tên, số điện thoại, ngày sinh, khóa học, hình thức, số tháng, tổng tiền và trạng thái email.
-
-### Làm mới
-Xóa họ tên/số điện thoại; ngày sinh về hôm nay; bỏ email; chọn khóa đầu tiên; chọn Online; số tháng = 1; focus vào họ tên.
-
-### Thoát
-Có hộp thoại xác nhận, chỉ đóng khi chọn Yes.
-
-## 6. Sự kiện
-- `Form1_Load`
-- `cboKhoaHoc_SelectedIndexChanged`
-- `numSoThang_ValueChanged`
-- `btnDangKy_Click`
-- `btnLamMoi_Click`
-- `btnThoat_Click`
-
-## 7. Cấu trúc project
-```text
-CourseRegistrationApp
-├── CourseRegistrationApp.sln
-├── README.md
-├── images
-└── CourseRegistrationApp
-    ├── CourseRegistrationApp.csproj
-    ├── Form1.cs
-    ├── Form1.Designer.cs
-    └── Program.cs
-```
 - Nhóm: ........................................
 
 ## 12. Kết luận
