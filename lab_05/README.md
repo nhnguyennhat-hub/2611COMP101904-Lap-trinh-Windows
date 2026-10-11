@@ -76,30 +76,6 @@ CourseRegistrationApp
     ├── Form1.Designer.cs
     └── Program.cs
 ```
-
-## 8. Cách chạy
-1. Mở `CourseRegistrationApp.sln` bằng Visual Studio.
-2. Đặt `CourseRegistrationApp` làm Startup Project nếu cần.
-3. Nhấn `Ctrl + F5` hoặc `F5`.
-
-## 9. Test mẫu
-**Dữ liệu:** Nguyễn Văn A, 0901234567, 01/01/2005, C# WinForms cơ bản, Online, 2 tháng, nhận email.
-
-**Kết quả:** Tổng tiền `1.600.000 VNĐ`, trạng thái đăng ký thành công.
-
-Test thêm: để trống họ tên, để trống số điện thoại, đổi khóa học, đổi số tháng, Làm mới và Thoát.
-
-## 10. Hình ảnh báo cáo
-Sau khi chạy chương trình, chụp màn hình và đặt vào thư mục `images`, ví dụ:
-- `images/giao-dien.png`
-- `images/dang-ky.png`
-- `images/ket-qua.png`
-- `images/lam-moi.png`
-
-## 11. Thông tin sinh viên
-- MSSV: ........................................
-- Họ và tên: ........................................
-- Lớp: ........................................
 - Nhóm: ........................................
 
 ## 12. Kết luận
