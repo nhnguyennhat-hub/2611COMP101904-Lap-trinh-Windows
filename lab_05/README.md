@@ -44,8 +44,3 @@ Công thức: `Tổng học phí = Học phí/tháng × Số tháng`.
 - `btnThoat`: Thoát
 
 ## 5. Chức năng
-
-- Nhóm: ........................................
-
-## 12. Kết luận
-Bài Lab 05 xây dựng ứng dụng Windows Forms đăng ký khóa học, đáp ứng yêu cầu về giao diện, đặt tên control, xử lý sự kiện, kiểm tra dữ liệu, tính học phí, đăng ký, làm mới và thoát chương trình.
