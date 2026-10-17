@@ -5,7 +5,6 @@
 ### Thông tin
 - Buổi: Buổi 5
 - Chủ đề: Windows Forms cơ bản
-- Tên ứng dụng: `CourseRegistrationApp`
 - Công cụ: Visual Studio, C# Windows Forms
 - Hình thức: Cá nhân
 
@@ -15,11 +14,7 @@
 - Sử dụng Label, TextBox, Button, ComboBox, RadioButton, CheckBox, DateTimePicker, NumericUpDown và GroupBox.
 - Xử lý sự kiện Load, Click, SelectedIndexChanged và ValueChanged.
 - Kiểm tra dữ liệu và hiển thị kết quả bằng MessageBox.
-
-## 2. Mô tả
-`CourseRegistrationApp` là ứng dụng đăng ký khóa học. Người dùng nhập thông tin học viên, chọn khóa học, hình thức học, số tháng và nhận phiếu đăng ký.
-
-## 3. Khóa học
+## 2. Khóa học
 | Khóa học | Học phí/tháng |
 |---|---:|
 | C# WinForms cơ bản | 800.000 VNĐ |
@@ -29,7 +24,7 @@
 
 Công thức: `Tổng học phí = Học phí/tháng × Số tháng`.
 
-## 4. Control
+## 3. Control
 - `txtHoTen`: Họ tên
 - `txtSoDienThoai`: Số điện thoại
 - `dtpNgaySinh`: Ngày sinh
