@@ -43,7 +43,7 @@ Công thức: `Tổng học phí = Học phí/tháng × Số tháng`.
 
 Khi khởi động, ComboBox được nạp sẵn 4 khóa học, mặc định chọn khóa đầu tiên (_C# WinForms cơ bản_), hình thức mặc định là _Online_, số tháng mặc định là _1_ và tổng học phí ban đầu hiển thị là **800.000 VND**.
 
-![Giao diện khởi tạo](lab_05/images/Screenshot 2026-10-18 081531.png)
+![Giao diện khởi tạo]([lab_05/images/Screenshot 2026-10-18 081531.png](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/blob/main/lab_05/images/Screenshot%202026-10-18%20081531.png))
 
 _Mô tả: Giao diện form khởi tạo chuẩn với các giá trị mặc định._
 
