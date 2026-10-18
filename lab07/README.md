@@ -14,11 +14,6 @@
 - FrmCustomer: thêm và hiển thị khách hàng.
 - FrmAbout: giới thiệu ứng dụng.
 
-## Cách chạy
-Mở `ShopManagerMini.sln` bằng Visual Studio 2022 và nhấn F5.
-
-Yêu cầu: .NET 8 SDK và workload .NET Desktop Development.
-
 ## Câu hỏi nộp kèm
 
 ### 1. SDI và MDI khác nhau như thế nào?
