@@ -25,17 +25,7 @@
 - Lưu danh sách đối tượng bằng `List<DrawItem>`.
 - Hỗ trợ Ctrl + Z để Undo.
 - Lưu vùng vẽ thành file PNG.
-
-## 3. Cách chạy
-
-1. Giải nén file ZIP.
-2. Mở Visual Studio 2022/2026.
-3. Mở file:
-   `COMP1019_Lab08_SimplePaint.sln`
-4. Chọn project `COMP1019_Lab08_SimplePaint`.
-5. Nhấn `F5` hoặc nút Start để chạy.
-
-## 4. Cách sử dụng
+## 3. Cách sử dụng
 
 ### Pen
 Chọn `Pen`, giữ chuột trái và kéo để vẽ tự do.
@@ -66,7 +56,7 @@ Nhấn `Clear` để xóa toàn bộ hình sau khi xác nhận.
 ### Lưu PNG
 Nhấn `Lưu PNG`, chọn vị trí lưu và đặt tên file.
 
-## 5. Kỹ thuật chính
+## 4. Kỹ thuật chính
 
 Ứng dụng sử dụng:
 
@@ -86,7 +76,7 @@ Khi Panel cần vẽ lại, sự kiện `Paint` đọc danh sách `drawItems` v�
 
 Các đối tượng `Pen`, `Brush`, `Graphics`, `Bitmap`, `ColorDialog` và `SaveFileDialog` được quản lý bằng `using` để giải phóng tài nguyên.
 
-## 6. Cấu trúc project
+## 5. Cấu trúc project
 
 ```text
 COMP1019_Lab08_SimplePaint
@@ -102,21 +92,3 @@ COMP1019_Lab08_SimplePaint
     └── Models
         └── DrawItem.cs
 ```
-
-## 7. Kiểm tra trước khi nộp
-
-- [ ] Chạy được project.
-- [ ] Pen hoạt động.
-- [ ] Line hoạt động.
-- [ ] Rectangle hoạt động.
-- [ ] Ellipse hoạt động.
-- [ ] Chọn màu được.
-- [ ] Chọn độ dày được.
-- [ ] Undo hoạt động.
-- [ ] Clear hoạt động.
-- [ ] Tọa độ chuột hiển thị.
-- [ ] Resize không mất hình.
-- [ ] Ctrl + Z hoạt động.
-- [ ] Lưu PNG hoạt động.
-- [ ] Chụp ảnh màn hình có ít nhất 4 loại hình.
-- [ ] Push project lên GitHub.
