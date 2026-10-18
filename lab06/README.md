@@ -26,20 +26,13 @@ Có sẵn 3 sản phẩm mẫu:
 - SP002 - Bàn phím cơ
 - SP003 - Áo sơ mi
 
-## 4. Cách chạy
-1. Mở file `ProductManager.sln` bằng Visual Studio 2022.
-2. Chọn project `ProductManager` làm Startup Project nếu cần.
-3. Nhấn `F5` để chạy.
-
-Yêu cầu: Visual Studio 2022 có workload .NET Desktop Development và .NET 8 SDK.
-
-## 5. Lưu ý sửa sản phẩm
+## 4. Lưu ý sửa sản phẩm
 - Chọn một dòng trong DataGridView.
 - Bấm `Sửa` để đưa dữ liệu lên form.
 - Chỉnh sửa thông tin.
 - Bấm `Sửa` lần nữa để lưu thay đổi.
 
-## 6. Cấu trúc
+## 5. Cấu trúc
 - `ProductManager.sln`
 - `ProductManager/ProductManager.csproj`
 - `ProductManager/Program.cs`
