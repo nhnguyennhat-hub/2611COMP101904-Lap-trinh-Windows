@@ -20,8 +20,11 @@ Mở file `LAB01_ThongTinCaNhan.sln` bằng Visual Studio, sau đó nhấn `F5`.
 
 ## Hình ảnh minh họa
 
-### 1. Hiển thị thông tin thành công
-![Kết quả](images/ketqua.png)
+### 1. Ảnh khởi tạo
+![a](images/ketqua.png)
+
+### 2. Hiện thị thông tin
+![b].()
 
 ### 2. Kiểm tra dữ liệu: Lỗi chọn giới tính
 ![Lỗi giới tính](images/loigioitinh.png)
