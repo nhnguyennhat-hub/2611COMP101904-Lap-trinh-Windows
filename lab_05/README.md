@@ -83,7 +83,3 @@ Công thức: `Tổng học phí = Học phí/tháng × Số tháng`.
 ### 5.8. Chức năng Thoát có xác nhận (Yes/No)
 
 ![Xác nhận thoát](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/raw/main/lab_05/images/Screenshot%202026-10-18%20111051.png)
-
-_Mô tả: Hộp thoại xác nhận trước khi đóng Form._
-
----
