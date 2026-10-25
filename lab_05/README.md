@@ -43,57 +43,42 @@ Công thức: `Tổng học phí = Học phí/tháng × Số tháng`.
 
 ![Giao diện khởi tạo](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/raw/0bff9a8ccbd044497ecb7040e205c8bc5493ab8e/lab_05/images/Screenshot%202026-10-18%20081531.png)
 
-_Mô tả: Giao diện form khởi tạo chuẩn với các giá trị mặc định._
 
----
 
 ### 5.2. Chọn ngày sinh qua DateTimePicker
 
 ![Chọn ngày sinh](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/raw/ba4da225d4b429957cefcf2f7a84644dca31d83f/lab_05/images/Screenshot%202026-10-18%20081633.png)
 
-_Mô tả: Dropdown lịch hiển thị khi chọn ngày sinh._
 
----
 
 ### 5.3. Danh sách lựa chọn khóa học trong ComboBox
 
 ![Danh sách khóa học](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/raw/ba4da225d4b429957cefcf2f7a84644dca31d83f/lab_05/images/Screenshot%202026-10-18%20081712.png)
 
-_Mô tả: Danh sách khóa học được nạp đầy đủ vào ComboBox._
-
----
 
 ### 5.4. Tự động tính học phí khi thay đổi thông tin
 
 ![Tính học phí tự động](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/raw/main/lab_05/images/Screenshot%202026-10-18%20082052.png)
 
-_Mô tả: Tổng học phí tự động nhân theo số tháng đăng ký._
 
----
 
 ### 5.5. Đăng ký thành công & Xuất phiếu đăng ký
 
 ![Phiếu đăng ký thành công](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/raw/main/lab_05/images/Screenshot%202026-10-18%20091216.png)
 
-_Mô tả: Hộp thoại xác nhận đăng ký thành công với đầy đủ các trường thông tin._
 
----
 
 ### 5.6. Kiểm tra hợp lệ: Bắt lỗi để trống số điện thoại
 
 ![Lỗi trống số điện thoại](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/raw/main/lab_05/images/Screenshot%202026-10-18%20110947.png)
 
-_Mô tả: Cảnh báo khi người dùng không điền số điện thoại._
 
----
 
 ### 5.7. Kiểm tra hợp lệ: Bắt lỗi để trống họ tên học viên
 
 ![Lỗi trống họ tên](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/raw/main/lab_05/images/Screenshot%202026-10-18%20111023.png)
 
-_Mô tả: Cảnh báo khi người dùng để trống họ tên._
 
----
 
 ### 5.8. Chức năng Thoát có xác nhận (Yes/No)
 
