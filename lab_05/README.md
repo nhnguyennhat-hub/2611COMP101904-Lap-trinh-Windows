@@ -14,17 +14,8 @@
 - Sử dụng Label, TextBox, Button, ComboBox, RadioButton, CheckBox, DateTimePicker, NumericUpDown và GroupBox.
 - Xử lý sự kiện Load, Click, SelectedIndexChanged và ValueChanged.
 - Kiểm tra dữ liệu và hiển thị kết quả bằng MessageBox.
-## 2. Khóa học
-| Khóa học | Học phí/tháng |
-|---|---:|
-| C# WinForms cơ bản | 800.000 VNĐ |
-| SQL Server cơ bản | 700.000 VNĐ |
-| Web Frontend cơ bản | 750.000 VNĐ |
-| Lập trình Python cơ bản | 650.000 VNĐ |
 
-Công thức: `Tổng học phí = Học phí/tháng × Số tháng`.
-
-## 3. Control
+## 2. Control
 - `txtHoTen`: Họ tên
 - `txtSoDienThoai`: Số điện thoại
 - `dtpNgaySinh`: Ngày sinh
@@ -38,48 +29,48 @@ Công thức: `Tổng học phí = Học phí/tháng × Số tháng`.
 - `btnLamMoi`: Làm mới
 - `btnThoat`: Thoát
 
-## 5. Chức năng
-### 5.1. Khởi tạo ứng dụng khi Form Load
+## 3. Chức năng
+### 3.1. Khởi tạo ứng dụng khi Form Load
 
 ![Giao diện khởi tạo](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/raw/0bff9a8ccbd044497ecb7040e205c8bc5493ab8e/lab_05/images/Screenshot%202026-10-18%20081531.png)
 
 
 
-### 5.2. Chọn ngày sinh qua DateTimePicker
+### 3.2. Chọn ngày sinh qua DateTimePicker
 
 ![Chọn ngày sinh](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/raw/ba4da225d4b429957cefcf2f7a84644dca31d83f/lab_05/images/Screenshot%202026-10-18%20081633.png)
 
 
 
-### 5.3. Danh sách lựa chọn khóa học trong ComboBox
+### 3.3. Danh sách lựa chọn khóa học trong ComboBox
 
 ![Danh sách khóa học](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/raw/ba4da225d4b429957cefcf2f7a84644dca31d83f/lab_05/images/Screenshot%202026-10-18%20081712.png)
 
 
-### 5.4. Tự động tính học phí khi thay đổi thông tin
+### 3.4. Tự động tính học phí khi thay đổi thông tin
 
 ![Tính học phí tự động](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/raw/main/lab_05/images/Screenshot%202026-10-18%20082052.png)
 
 
 
-### 5.5. Đăng ký thành công & Xuất phiếu đăng ký
+### 3.5. Đăng ký thành công & Xuất phiếu đăng ký
 
 ![Phiếu đăng ký thành công](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/raw/main/lab_05/images/Screenshot%202026-10-18%20091216.png)
 
 
 
-### 5.6. Kiểm tra hợp lệ: Bắt lỗi để trống số điện thoại
+### 3.6. Kiểm tra hợp lệ: Bắt lỗi để trống số điện thoại
 
 ![Lỗi trống số điện thoại](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/raw/main/lab_05/images/Screenshot%202026-10-18%20110947.png)
 
 
 
-### 5.7. Kiểm tra hợp lệ: Bắt lỗi để trống họ tên học viên
+### 3.7. Kiểm tra hợp lệ: Bắt lỗi để trống họ tên học viên
 
 ![Lỗi trống họ tên](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/raw/main/lab_05/images/Screenshot%202026-10-18%20111023.png)
 
 
 
-### 5.8. Chức năng Thoát có xác nhận (Yes/No)
+### 3.8. Chức năng Thoát có xác nhận (Yes/No)
 
 ![Xác nhận thoát](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/raw/main/lab_05/images/Screenshot%202026-10-18%20111051.png)
