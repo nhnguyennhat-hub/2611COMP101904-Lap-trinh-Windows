@@ -18,15 +18,16 @@
 ## Chạy chương trình
 Mở file `LAB01_ThongTinCaNhan.sln` bằng Visual Studio, sau đó nhấn `F5`.
 
-## Hình ảnh
-ảnh demo
+## Hình ảnh minh họa
 
-![anh demo](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/blob/45ef0c7db60ed01fd3ec3e872ddab756a3b8763c/LAB01_ThongTinCaNhan/image/start.png)
+### 1. Hiển thị thông tin thành công
+![Kết quả](images/ketqua.png)
 
-ảnh kết quả
+### 2. Kiểm tra dữ liệu: Lỗi chọn giới tính
+![Lỗi giới tính](images/loigioitinh.png)
 
-![anh ketqua](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/blob/77b673b699a71b45cd2251634fa12fa322240e17/LAB01_ThongTinCaNhan/image/end.png)
+### 3. Kiểm tra dữ liệu: Lỗi năm sinh
+![Lỗi năm sinh](images/loinamsinh.png)
 
-ảnh lỗi
-
-![anh loi](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/blob/main/LAB01_ThongTinCaNhan/image/anh%20loi.png)
+### 4. Hộp thoại xác nhận khi thoát
+![Thoát](images/thoat.png)
