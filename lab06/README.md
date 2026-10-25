@@ -1,4 +1,4 @@
-# ProductManager - COMP1019 LAB 05
+# ProductManager - COMP1019 LAB 06
 
 ## 1. Thông tin
 - Môn: COMP1019 - Lập trình trên Windows
