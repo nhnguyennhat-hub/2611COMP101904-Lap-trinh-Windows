@@ -37,56 +37,41 @@ Bài thực hành nhằm xây dựng ứng dụng **Console Application** quản
 
 ## 5. Kết quả thực nghiệm
 
-### 5.1. Thêm sinh viên mới từ bàn phím (Chức năng 1)
+### 5.1. Thêm sinh viên
 
-Nhập đầy đủ thông tin sinh viên hợp lệ: Mã SV `456`, Họ tên `Lê Hoàng Quân`, Ngày sinh `02/11/2007`, Lớp `12C3`, Điểm `10`.
+![Thêm sinh viên](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/raw/main/Lab03/image/them%20sinh%20vien.png)
 
-![Thêm sinh viên]
+### 5.2. Xuất toàn bộ danh sách sinh viên
 
-### 5.2. Xuất toàn bộ danh sách sinh viên (Chức năng 2)
-
-Danh sách được hiển thị dưới dạng bảng ngay ngắn, tự động tính cột xếp loại theo thang điểm.
-
-![Xuất danh sách]
+![Xuất danh sách](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/raw/main/Lab03/image/Xuat%20danh%20sach.png)
 
 
-### 5.3. Tìm kiếm sinh viên theo mã (Chức năng 3)
+### 5.3. Tìm sinh viên theo mã
 
-Nhập mã sinh viên `A123` để tra cứu thông tin chính xác.
-
-![Tìm theo mã]
+![Tìm theo mã](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/raw/main/Lab03/image/tim%20sinh%20vien%20theo%20ma.png)
 
 
-### 5.4. Tìm kiếm sinh viên theo tên (Chức năng 4)
+### 5.4. Tìm sinh viên theo tên
 
-Nhập từ khóa tìm kiếm `"1"`, chương trình lọc ra tất cả sinh viên có họ tên chứa ký tự này.
-
-![Tìm theo tên]
+![Tìm theo tên](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/raw/main/Lab03/image/tim%20sinh%20vien%20theo%20ten.png)
 
 
-### 5.5. Cập nhật sửa điểm trung bình (Chức năng 5)
+### 5.5. Cập nhật sửa điểm trung bình
 
-Nhập mã sinh viên `456`, chương trình hiển thị tên cùng điểm hiện tại (`10,0`), sau đó cho phép cập nhật điểm mới thành `9`.
+![Sửa điểm trung bình](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/raw/main/Lab03/image/sua%20diem%20trung%20binh.png)
 
-![Sửa điểm trung bình]
+### 5.6. Xóa sinh viên khỏi danh sách
 
-### 5.6. Xóa sinh viên khỏi danh sách (Chức năng 6)
-
-Nhập mã sinh viên cần xóa `1`. Hệ thống tìm kiếm theo mã và thực hiện xóa sinh viên ra khỏi bộ nhớ danh sách.
-
-![Xóa sinh viên]
+![Xóa sinh viên](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/raw/main/Lab03/image/xoa%20sinh%20vien.png)
 
 
 ### 5.7. Sắp xếp danh sách theo điểm giảm dần bằng LINQ (Chức năng 7)
 
-Áp dụng LINQ để sắp xếp lại thứ tự sinh viên theo điểm từ cao nhất xuống thấp nhất.
 
-![Sắp xếp theo điểm]
+![Sắp xếp theo điểm](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/raw/main/Lab03/image/sap%20sep%20diem%20giam%20dan.png)
 
 
 ### 5.8. Lọc danh sách sinh viên đạt (Điểm >= 5.0) bằng LINQ (Chức năng 8)
 
-Lọc và xuất các sinh viên có điểm trung bình từ `5.0` trở lên thông qua phương thức `Where()` của LINQ.
-
-![Lọc sinh viên đạt]
+![Lọc sinh viên đạt](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/raw/main/Lab03/image/loc%20sinh%20vien%20dat.png)
 
