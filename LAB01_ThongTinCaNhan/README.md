@@ -14,14 +14,10 @@
 - Hiển thị thông tin và tuổi.
 - Xóa dữ liệu.
 - Thoát có xác nhận.
-
-## Chạy chương trình
-Mở file `LAB01_ThongTinCaNhan.sln` bằng Visual Studio, sau đó nhấn `F5`.
-
 ## Hình ảnh minh họa
 
 ### 1. Ảnh khởi tạo
-![a](images/ketqua.png)
+![a](https://github.com/nhnguyennhat-hub/2611COMP101904-Lap-trinh-Windows/raw/main/LAB01_ThongTinCaNhan/image/start.png))
 
 ### 2. Hiện thị thông tin
 ![b].()
