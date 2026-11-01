@@ -39,7 +39,3 @@ Database/QLSinhVienLab12.sql  Script DB + dữ liệu mẫu + stored procedure
 | 13 | Tắt SQL Server rồi mở form | Hộp thoại lỗi kết nối, không crash |
 
 (Sau test 12, chạy lại file SQL để khôi phục SV009.)
-
-## Ảnh chụp cần nộp
-Form trước khi lưu, Form sau khi lưu, thông báo thành công, và (nên có) thông báo rollback ở test 12.
-Tên file nộp: `MSSV_HoTen_Lab12.zip`.
