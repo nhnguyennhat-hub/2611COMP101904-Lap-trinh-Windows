@@ -1,0 +1,15 @@
+C:\Users\nhngu\Downloads\lab13\bin\Debug\net8.0-windows\StudentReportDemo.exe
+C:\Users\nhngu\Downloads\lab13\bin\Debug\net8.0-windows\StudentReportDemo.deps.json
+C:\Users\nhngu\Downloads\lab13\bin\Debug\net8.0-windows\StudentReportDemo.runtimeconfig.json
+C:\Users\nhngu\Downloads\lab13\bin\Debug\net8.0-windows\StudentReportDemo.dll
+C:\Users\nhngu\Downloads\lab13\bin\Debug\net8.0-windows\StudentReportDemo.pdb
+C:\Users\nhngu\Downloads\lab13\obj\Debug\net8.0-windows\StudentReportDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhngu\Downloads\lab13\obj\Debug\net8.0-windows\StudentReportDemo.AssemblyInfoInputs.cache
+C:\Users\nhngu\Downloads\lab13\obj\Debug\net8.0-windows\StudentReportDemo.AssemblyInfo.cs
+C:\Users\nhngu\Downloads\lab13\obj\Debug\net8.0-windows\StudentReportDemo.csproj.CoreCompileInputs.cache
+C:\Users\nhngu\Downloads\lab13\obj\Debug\net8.0-windows\StudentReportDemo.dll
+C:\Users\nhngu\Downloads\lab13\obj\Debug\net8.0-windows\refint\StudentReportDemo.dll
+C:\Users\nhngu\Downloads\lab13\obj\Debug\net8.0-windows\StudentReportDemo.pdb
+C:\Users\nhngu\Downloads\lab13\obj\Debug\net8.0-windows\StudentReportDemo.genruntimeconfig.cache
+C:\Users\nhngu\Downloads\lab13\obj\Debug\net8.0-windows\ref\StudentReportDemo.dll
+C:\Users\nhngu\Downloads\lab13\obj\Debug\net8.0-windows\StudentR.092FE807.Up2Date
