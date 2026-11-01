@@ -45,6 +45,3 @@ StudentReportDemo\
 | 12 | Xuất `.txt` | Có tiêu đề, ngày xuất, điều kiện lọc, dòng tổng kết, bảng thẳng hàng |
 | 13 | Xuất ra file đang mở trong Excel | Thông báo lỗi ghi file, chương trình không crash |
 | 14 | Bấm Thống kê rồi Xuất file | File chứa bảng thống kê theo lớp |
-
-## Ảnh chụp cần nộp
-Form sau khi lọc (ví dụ test 7), form Thống kê, và file CSV/TXT đã xuất (đính kèm cùng bài). Tên file nộp: `MSSV_HoTen_Lab13.zip`.
