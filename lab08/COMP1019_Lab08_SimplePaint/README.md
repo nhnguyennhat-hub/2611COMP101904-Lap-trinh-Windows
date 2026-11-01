@@ -19,6 +19,3 @@
 - Undo, Ctrl+Z, Clear.
 - Hiển thị tọa độ chuột.
 - Lưu vùng vẽ thành PNG.
-
-## Kỹ thuật
-Các nét vẽ được lưu trong `List<DrawItem>`. Canvas được vẽ lại trong sự kiện `Paint`, nên nét vẽ vẫn còn khi cửa sổ bị che hoặc thay đổi kích thước.
