@@ -1,4 +1,4 @@
-# ProductManager - COMP1019 Lab 05
+# ProductManager - COMP1019 Lab 06
 
 ## Yêu cầu
 - Windows
