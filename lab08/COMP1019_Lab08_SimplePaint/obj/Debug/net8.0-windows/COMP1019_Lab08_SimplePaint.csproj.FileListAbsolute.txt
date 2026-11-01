@@ -1,0 +1,15 @@
+C:\Users\nhngu\Downloads\lab08\COMP1019_Lab08_SimplePaint\bin\Debug\net8.0-windows\COMP1019_Lab08_SimplePaint.exe
+C:\Users\nhngu\Downloads\lab08\COMP1019_Lab08_SimplePaint\bin\Debug\net8.0-windows\COMP1019_Lab08_SimplePaint.deps.json
+C:\Users\nhngu\Downloads\lab08\COMP1019_Lab08_SimplePaint\bin\Debug\net8.0-windows\COMP1019_Lab08_SimplePaint.runtimeconfig.json
+C:\Users\nhngu\Downloads\lab08\COMP1019_Lab08_SimplePaint\bin\Debug\net8.0-windows\COMP1019_Lab08_SimplePaint.dll
+C:\Users\nhngu\Downloads\lab08\COMP1019_Lab08_SimplePaint\bin\Debug\net8.0-windows\COMP1019_Lab08_SimplePaint.pdb
+C:\Users\nhngu\Downloads\lab08\COMP1019_Lab08_SimplePaint\obj\Debug\net8.0-windows\COMP1019_Lab08_SimplePaint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhngu\Downloads\lab08\COMP1019_Lab08_SimplePaint\obj\Debug\net8.0-windows\COMP1019_Lab08_SimplePaint.AssemblyInfoInputs.cache
+C:\Users\nhngu\Downloads\lab08\COMP1019_Lab08_SimplePaint\obj\Debug\net8.0-windows\COMP1019_Lab08_SimplePaint.AssemblyInfo.cs
+C:\Users\nhngu\Downloads\lab08\COMP1019_Lab08_SimplePaint\obj\Debug\net8.0-windows\COMP1019_Lab08_SimplePaint.csproj.CoreCompileInputs.cache
+C:\Users\nhngu\Downloads\lab08\COMP1019_Lab08_SimplePaint\obj\Debug\net8.0-windows\COMP1019_Lab08_SimplePaint.dll
+C:\Users\nhngu\Downloads\lab08\COMP1019_Lab08_SimplePaint\obj\Debug\net8.0-windows\refint\COMP1019_Lab08_SimplePaint.dll
+C:\Users\nhngu\Downloads\lab08\COMP1019_Lab08_SimplePaint\obj\Debug\net8.0-windows\COMP1019_Lab08_SimplePaint.pdb
+C:\Users\nhngu\Downloads\lab08\COMP1019_Lab08_SimplePaint\obj\Debug\net8.0-windows\COMP1019_Lab08_SimplePaint.genruntimeconfig.cache
+C:\Users\nhngu\Downloads\lab08\COMP1019_Lab08_SimplePaint\obj\Debug\net8.0-windows\ref\COMP1019_Lab08_SimplePaint.dll
+C:\Users\nhngu\Downloads\lab08\COMP1019_Lab08_SimplePaint\obj\Debug\net8.0-windows\COMP1019.87135125.Up2Date
