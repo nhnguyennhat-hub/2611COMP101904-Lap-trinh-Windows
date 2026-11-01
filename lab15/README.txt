@@ -36,8 +36,3 @@ Luong: Form --(goi)--> Presenter --(doc/ghi qua IStudentView)--> Form
                        Presenter --(IStudentRepository)--> du lieu
 Loi ich: Presenter khong phu thuoc WinForms nen co the kiem thu bang View gia; doi kho luu tru
 (List -> SQL Server) chi can viet them mot Repository moi, khong sua Presenter va Form.
-
-5. TAI LIEU KEM THEO
-Docs\TestCases.md          Test case (18 truong hop)
-Docs\Checklist_BanGiao.md  Checklist ban giao do an cuoi ky
-Anh chup man hinh: dat trong thu muc screenshots\
