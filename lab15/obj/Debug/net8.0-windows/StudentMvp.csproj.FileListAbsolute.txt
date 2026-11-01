@@ -1,0 +1,15 @@
+C:\Users\nhngu\Downloads\lab15\bin\Debug\net8.0-windows\StudentMvp.exe
+C:\Users\nhngu\Downloads\lab15\bin\Debug\net8.0-windows\StudentMvp.deps.json
+C:\Users\nhngu\Downloads\lab15\bin\Debug\net8.0-windows\StudentMvp.runtimeconfig.json
+C:\Users\nhngu\Downloads\lab15\bin\Debug\net8.0-windows\StudentMvp.dll
+C:\Users\nhngu\Downloads\lab15\bin\Debug\net8.0-windows\StudentMvp.pdb
+C:\Users\nhngu\Downloads\lab15\obj\Debug\net8.0-windows\StudentMvp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhngu\Downloads\lab15\obj\Debug\net8.0-windows\StudentMvp.AssemblyInfoInputs.cache
+C:\Users\nhngu\Downloads\lab15\obj\Debug\net8.0-windows\StudentMvp.AssemblyInfo.cs
+C:\Users\nhngu\Downloads\lab15\obj\Debug\net8.0-windows\StudentMvp.csproj.CoreCompileInputs.cache
+C:\Users\nhngu\Downloads\lab15\obj\Debug\net8.0-windows\StudentMvp.dll
+C:\Users\nhngu\Downloads\lab15\obj\Debug\net8.0-windows\refint\StudentMvp.dll
+C:\Users\nhngu\Downloads\lab15\obj\Debug\net8.0-windows\StudentMvp.pdb
+C:\Users\nhngu\Downloads\lab15\obj\Debug\net8.0-windows\StudentMvp.genruntimeconfig.cache
+C:\Users\nhngu\Downloads\lab15\obj\Debug\net8.0-windows\ref\StudentMvp.dll
+C:\Users\nhngu\Downloads\lab15\obj\Debug\net8.0-windows\StudentMvp.csproj.Up2Date
