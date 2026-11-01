@@ -31,6 +31,3 @@ Dữ liệu mẫu: 2 khoa, 3 lớp, 7 sinh viên, 4 môn, 10 kết quả, 2 tài
 - Câu 9/10: sau câu 5 (chuyển SV006 sang `DH22CNTT01`), `DH21CNTT01` có 2 SV, `DH22CNTT01` có 3 SV, `DH22KT01` có 1 SV → câu 10 trả về 2 lớp đầu.
 - Câu 11: lỗi 547 (vi phạm FOREIGN KEY `FK_SINHVIEN_LOP`).
 - Câu 12: lỗi 547 (vi phạm CHECK `CK_KETQUA_Diem`).
-
-## Ảnh chụp kết quả
-Đặt vào thư mục `screenshots/`: câu 2, 8, 9, 10, 11, 12.
