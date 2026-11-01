@@ -1,0 +1,15 @@
+C:\Users\nhngu\Downloads\lab09\bin\Debug\net8.0-windows\StudentCardApp.exe
+C:\Users\nhngu\Downloads\lab09\bin\Debug\net8.0-windows\StudentCardApp.deps.json
+C:\Users\nhngu\Downloads\lab09\bin\Debug\net8.0-windows\StudentCardApp.runtimeconfig.json
+C:\Users\nhngu\Downloads\lab09\bin\Debug\net8.0-windows\StudentCardApp.dll
+C:\Users\nhngu\Downloads\lab09\bin\Debug\net8.0-windows\StudentCardApp.pdb
+C:\Users\nhngu\Downloads\lab09\obj\Debug\net8.0-windows\StudentCardApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhngu\Downloads\lab09\obj\Debug\net8.0-windows\StudentCardApp.AssemblyInfoInputs.cache
+C:\Users\nhngu\Downloads\lab09\obj\Debug\net8.0-windows\StudentCardApp.AssemblyInfo.cs
+C:\Users\nhngu\Downloads\lab09\obj\Debug\net8.0-windows\StudentCardApp.csproj.CoreCompileInputs.cache
+C:\Users\nhngu\Downloads\lab09\obj\Debug\net8.0-windows\StudentCardApp.dll
+C:\Users\nhngu\Downloads\lab09\obj\Debug\net8.0-windows\refint\StudentCardApp.dll
+C:\Users\nhngu\Downloads\lab09\obj\Debug\net8.0-windows\StudentCardApp.pdb
+C:\Users\nhngu\Downloads\lab09\obj\Debug\net8.0-windows\StudentCardApp.genruntimeconfig.cache
+C:\Users\nhngu\Downloads\lab09\obj\Debug\net8.0-windows\ref\StudentCardApp.dll
+C:\Users\nhngu\Downloads\lab09\obj\Debug\net8.0-windows\StudentC.430DF80D.Up2Date
